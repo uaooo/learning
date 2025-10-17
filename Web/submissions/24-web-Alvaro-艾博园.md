@@ -7,20 +7,21 @@
 
 
 # **get_post**
+<img width="1919" height="528" alt="image" src="https://github.com/user-attachments/assets/012786b4-5ccb-496b-8ef0-3964a4ecf2f7" />
+<img width="1910" height="636" alt="image" src="https://github.com/user-attachments/assets/f84b6365-423e-46bd-bdcb-66338e16ac2b" />
 
-![image-20251017195630960](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251017195630960.png)
 
-![image-20251017195827907](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251017195827907.png)
 
 # **robots**
 
-![image-20251017200001697](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251017200001697.png)
+<img width="503" height="152" alt="image" src="https://github.com/user-attachments/assets/ca0f9b47-601e-4eb4-8088-e5f1c57197cb" />
+<img width="648" height="113" alt="image" src="https://github.com/user-attachments/assets/13af2a43-96c0-4f50-81d8-eb9db87f9d46" />
 
-![image-20251017200018173](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251017200018173.png)
 
 # linux搭建
 
-![image-20251017200458720](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251017200458720.png)
+<img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/d9b3b043-3765-48d0-8cfd-3976e212cf32" />
+
 
 # python脚本
 
@@ -140,7 +141,8 @@ if __name__ == "__main__":
 
 #### pwd：显示当前工作目录的路径
 
-![image-20251017210513637](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251017210513637.png)
+<img width="624" height="52" alt="image" src="https://github.com/user-attachments/assets/bcde47b5-0f37-4fb8-aab4-165c578fd19f" />
+
 
 #### cd：切换工作目录
 
@@ -149,7 +151,8 @@ cd /path/to/directory
 cd ..      返回上一级目录
 ```
 
-![image-20251017210624376](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251017210624376.png)
+<img width="301" height="82" alt="image" src="https://github.com/user-attachments/assets/dd4c4fc2-7e21-4023-8509-f25f1462e6bf" />
+
 
 
 
@@ -162,7 +165,8 @@ mkdir directory_name
 ┌──(alvaro2006㉿kali)-[~/桌面]
 └─$ mkdir alvaro2007
 
-![image-20251017210932729](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251017210932729.png)
+<img width="227" height="103" alt="image" src="https://github.com/user-attachments/assets/d14eccbc-d42d-426a-a023-c3ca67bf5009" />
+
 
 、
 
@@ -183,7 +187,8 @@ alvaro2007下创建alvaro2008 ,alvaro2009
 
 ex2创建ex3
 
-![image-20251017212806383](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251017212806383.png)
+<img width="1314" height="196" alt="image" src="https://github.com/user-attachments/assets/2d08a9a9-a760-4e25-8d0e-144bca94d3e8" />
+
 
 #### mv：移动或重命名文件或目录
 
@@ -191,7 +196,8 @@ ex2创建ex3
 mv old_name new_name
 ```
 
-![image-20251017213013193](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251017213013193.png)
+<img width="1373" height="245" alt="image" src="https://github.com/user-attachments/assets/0ba6c31d-d04a-4374-95dc-697d9ffd9ac9" />
+
 
 #### touch：创建空文件或更新文件的时间戳
 
@@ -207,7 +213,8 @@ touch file_name
 cat file_name
 ```
 
-![image-20251017213446205](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251017213446205.png)
+<img width="1325" height="220" alt="image" src="https://github.com/user-attachments/assets/baa2bdec-ed85-4489-a891-8d9017d2dd87" />
+
 
 #### more/less：逐页显示文本文件内容
 
@@ -216,7 +223,8 @@ more file_name
 less file_name
 ```
 
-![image-20251017213801627](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251017213801627.png)
+<img width="1300" height="502" alt="image" src="https://github.com/user-attachments/assets/ee341862-0d42-4100-960a-9003a0d34bff" />
+
 
 #### head/tail：显示文件的前几行或后几行
 
@@ -225,7 +233,8 @@ head -n 10 file_name  # 显示文件的前10行
 tail -n 20 file_name  # 显示文件的后20行
 ```
 
-![image-20251017213946019](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251017213946019.png)
+<img width="1311" height="487" alt="image" src="https://github.com/user-attachments/assets/0f66a51f-0d3a-41f8-a96b-f8d82a6bfdbd" />
+
 
 #### grep：在文件中搜索指定文本
 
@@ -233,7 +242,8 @@ tail -n 20 file_name  # 显示文件的后20行
 grep search_term file_name
 ```
 
-![image-20251017214210926](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251017214210926.png)
+<img width="1356" height="466" alt="image" src="https://github.com/user-attachments/assets/2e2137ff-1333-4c31-9f3b-23b4d8fa7d64" />
+
 
 grep 目标文件  目标文件里你要找的文本的名字       然后他会为你跳转至文本所在的地址
 
@@ -245,7 +255,7 @@ ps aux
 
 摘一个网图
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/8e981cda24c114aa8cfc5d133c0ddbad.png)
+<img width="1292" height="785" alt="image" src="https://github.com/user-attachments/assets/462b515b-4215-4bcb-bef9-1db808798a43" />
 
 ####  kill：终止进程
 
@@ -359,5 +369,6 @@ grep -r "pattern" /path/to/search
 ```
 sed 's/old_text/new_text/' file_name
 ```
+
 
 
