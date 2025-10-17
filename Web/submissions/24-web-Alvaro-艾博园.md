@@ -2,7 +2,9 @@
 
 右键无法查看源代码，可以ctrl u或者url前加入view-source: 查看源代码。
 
-![image-20251017195516561](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251017195516561.png)
+
+<img width="889" height="487" alt="image" src="https://github.com/user-attachments/assets/fc63ad9e-9990-4a0e-a509-5d1c4f4a0792" />
+
 
 # **get_post**
 
@@ -357,4 +359,5 @@ grep -r "pattern" /path/to/search
 ```
 sed 's/old_text/new_text/' file_name
 ```
+
 
