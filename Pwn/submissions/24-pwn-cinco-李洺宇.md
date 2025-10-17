@@ -48,7 +48,7 @@ ps：本地打通后输入ls显示的是你自己电脑的当前目录内容，�
 
 在终端输入vim exp.py（不要直接在这个页面进行编写）
 
-esc+shift+:
+esc+shift+冒号
 
 ![](https://cdn.nlark.com/yuque/0/2025/png/56806197/1760698607030-3a7fe62f-0009-41ea-98d6-fb7325292ade.png)
 
