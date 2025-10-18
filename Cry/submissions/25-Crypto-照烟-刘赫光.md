@@ -1,9 +1,9 @@
-#1. 安装sage
+# 1. 安装sage
 
 ![image](https://raw.githubusercontent.com/35098a/learn/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(224).png)
 
-#2. 习题
-##第一题
+# 2. 习题
+## 第一题
 ```python
 #导入库
 import gmpy2
@@ -31,10 +31,10 @@ secret_message = libnum.n2s(m).decode("utf-8")
 # 输出结果
 print("信息:", secret_message)
 
-##第二题
+## 第二题
 不会做qwq
 
-##第三题
+## 第三题
 ```python
 #观察到公钥的加密指数e很小，又加密公式为c ≡ m^e mod n，也即c = m^e % n。所以由此可知，若是m^e=c，那么可直接解密出明文
 #导入库
