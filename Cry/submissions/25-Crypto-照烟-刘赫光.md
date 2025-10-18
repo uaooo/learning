@@ -30,6 +30,7 @@ secret_message = libnum.n2s(m).decode("utf-8")
 
 # 输出结果
 print("信息:", secret_message)
+```
 
 ## 第二题
 不会做qwq
@@ -56,3 +57,4 @@ if pow(m, 3) == c:
     print("", flag.decode())
 else:
     print("解密失败")
+```
