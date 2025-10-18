@@ -1,4 +1,5 @@
 #1. 安装sage
+
 ![image](https://raw.githubusercontent.com/35098a/learn/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(224).png)
 
 #2. 习题
